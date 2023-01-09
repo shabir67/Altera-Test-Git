@@ -1,1 +1,1 @@
-Hello World 123
+Im sorry for the inconvinince of me for late submited coursework and kinda messy folder name. One thing is for sure: I learned a lot about git and all of its features (this was my first time doing more than just add, commit, push) after practicing this whole week. not to mention your patience, knowledge, and the way you teach us, Kak Flo. I'm very grateful to be able to learn with you.
